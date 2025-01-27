@@ -19,8 +19,6 @@ def basic_number_operations(a, b):
    print(a, "//", b, "=", integer_quotient)
 
 
-
-
 def basic_string_operations():
    a = "Hello"
    b = "World"
@@ -28,8 +26,6 @@ def basic_string_operations():
    print(a, "+", b, "=", a + b)
    # A string can be multiplied by a number. It will result the string by the number times.
    print(a, "*", 3, "=", a * 3)
-
-
 
 
 if __name__ == '__main__':
